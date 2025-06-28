@@ -22,3 +22,11 @@ Relational Data Model: Utilizes a MySQL database with a normalized schema to mai
 RESTful API: A well-structured API provides clear endpoints for all CRUD (Create, Read, Update, Delete) operations related to services, vehicles, and user information.
 Component-Based UI: Built with React, the user interface is composed of reusable components, making the codebase clean, maintainable, and easy to scale.
 Responsive First Design: The UI is fully responsive, ensuring a seamless experience whether the user is on a desktop, tablet, or mobile phone.
+
+
+Technologies Used:
+React.js, CSS3
+Node.js, 
+Express.js
+MySQL
+Git
